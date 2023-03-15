@@ -1,0 +1,187 @@
+
+  
+  /*Barra de color superior y  textos */
+  .barra {
+    position: relative;
+    height: 150px;
+    background-color: #36A9E1;
+    margin-bottom: 100px;
+  }
+  
+
+  .texto {
+    position: absolute;
+    top: 50%;
+    left: 14%;
+    transform: translate(-50%, -60%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 55px;
+  }
+
+  .Categorias{
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  
+  .Mascotas {
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Marca {
+    position: absolute;
+    top: 90%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Producto {
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .Micuenta {
+    position: relative;
+    top: 30%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: #fCEA10;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  .Carrito {
+    position: relative;
+    top: 30%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+    color: #fCEA10;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  
+  /* boton de color y posicion de la barra de busqueda*/
+  .search-box {
+    position: absolute;
+    top: 8.5%;
+    left: 45%;
+    transform: translate(-40%, -40%);
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    width: 450px;
+  }
+  button[type="submit"] {
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    background-color: #F39200;
+    color: #fff;
+    cursor: pointer;
+  }
+
+   /* Texto de ofertas */
+   .Ofertas{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Ofertas1{
+    position: absolute;
+    top: 45%;
+    left: 110%;
+    transform: translate(-50%, -50%);
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  /*Barra de color inferior y  textos */
+  .barra {
+    position: relative;
+    height: 150px;
+    background-color: #36A9E1;
+    margin-bottom: 100px;
+  }
+
+  .Politica{
+    position: absolute;
+    top: 43%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .Terminos{
+    position: absolute;
+    top: 58%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Contactenos{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Telefono{
+    position: absolute;
+    top: 40%;
+    left: 68%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .Correo{
+    position: absolute;
+    top: 55%;
+    left: 68%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .Siguenos{
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
